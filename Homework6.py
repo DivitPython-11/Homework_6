@@ -12,3 +12,6 @@ if year%4 !=0:
     print("This is not a leap year")
 else:
     print(" This is a leap year")
+    #Third Activity
+    c=chr(67)
+    print(c) 
